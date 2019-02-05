@@ -33,7 +33,7 @@ class CustomHistory(keras.callbacks.Callback):
         self.train_loss.append(logs.get('loss'))
 
 look_back = 20
-data_location = "international-airline-passengers.csv"
+data_location = "data/international-airline-passengers.csv"
 
 # Airline passengers data
 passengers_data = pd.read_csv(data_location, header=None)
