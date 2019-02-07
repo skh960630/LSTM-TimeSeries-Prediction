@@ -11,3 +11,33 @@ Please check the version of libraries I used for this LSTM.
 - tensorflow==1.12.0
 - keras==2.2.4
 - matplotlib==3.0.2
+
+
+
+Output for passengers_lstm.py.
+
+![](images/passengers_lstm.png)
+
+Output for lstm_stateful.py.
+
+![](images/lstm_stateful.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
