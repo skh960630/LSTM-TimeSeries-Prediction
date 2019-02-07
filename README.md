@@ -12,6 +12,10 @@ Please check the version of libraries I used for this LSTM.
 - keras==2.2.4
 - matplotlib==3.0.2
 
+## Reference
+- international-airline-passengers.csv: https://www.kaggle.com/andreazzini/international-airline-passengers
+- Sydney-Rainfall.csv: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/version/2
+
 
 
 Output for passengers_lstm.py.
@@ -21,23 +25,3 @@ Output for passengers_lstm.py.
 Output for lstm_stateful.py.
 
 ![](images/lstm_stateful.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
