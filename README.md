@@ -21,5 +21,5 @@ Output for passengers_lstm.py.
 
 ![](images/passengers_lstm_result.png)
 
-Train Score: 0.0016482554761827904
-Test Score: 0.0017052177690008714
+- Train Score: 0.0016482554761827904
+- Test Score: 0.0017052177690008714
