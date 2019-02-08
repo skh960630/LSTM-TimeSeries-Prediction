@@ -1,7 +1,5 @@
 # LSTM Time Series Prediction
-LSTM using Keras to predict the time series data. There are two running files to predict international airline passengers. passengers_lstm.py is predicting without using stateful and lstm_stateful.py is using stateful and check if stateful helps the prediction for the time series data.
-
-We use 65% of data to train the LSTM model and predict the other 35% of data and compare the predicted data with real data.
+LSTM using Keras to predict the time series data. There are two running files to predict international airline passengers. We use 65% of data to train the LSTM model and predict the other 35% of data and compare the predicted data with real data.
 
 International airline passengers: Number of passengers for each month in thousands
 
@@ -23,8 +21,5 @@ Output for passengers_lstm.py.
 
 ![](images/passengers_lstm_result.png)
 
-Output for lstm_stateful.py.
-
-![](images/lstm_stateful.png)
-
-
+Train Score: 0.0016482554761827904
+Test Score: 0.0017052177690008714
