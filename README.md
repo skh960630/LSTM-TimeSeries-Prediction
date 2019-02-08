@@ -21,7 +21,7 @@ Please check the version of libraries I used for this LSTM.
 
 Output for passengers_lstm.py.
 
-![](images/passengers_lstm.png)
+![](images/passengers_lstm_result.png)
 
 Output for lstm_stateful.py.
 
