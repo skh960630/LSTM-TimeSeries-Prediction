@@ -1,7 +1,7 @@
 # LSTM Time Series Prediction
 LSTM using Keras to predict the time series data. There are two running files to predict international airline passengers. We use 65% of data to train the LSTM model and predict the other 35% of data and compare the predicted data with real data.
 
-International airline passengers: Number of passengers for each month in thousands
+International airline passengers: Number of passengers for each month in thousands.
 
 ## Requirements
 Please check the version of libraries I used for this LSTM.
@@ -14,6 +14,7 @@ Please check the version of libraries I used for this LSTM.
 
 ## Reference
 - international-airline-passengers.csv: https://www.kaggle.com/andreazzini/international-airline-passengers
+- google-stock.csv: https://www.kaggle.com/wogus934/google-stock
 
 
 
