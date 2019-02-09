@@ -19,8 +19,16 @@ Please check the version of libraries I used for this LSTM.
 
 
 Output for passengers_lstm.py.
-
 ![](images/passengers_lstm_result.png)
 
 - Train Score: 0.0016482554761827904
 - Test Score: 0.0017052177690008714
+
+
+
+
+Output for google_stock_lstm.py
+![](images/google_stock_lstm_result.png)
+
+- Train Score: 0.0022733879506346734
+- Test Score: 0.012751589032441776
