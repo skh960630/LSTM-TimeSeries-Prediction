@@ -1,7 +1,8 @@
 # LSTM Time Series Prediction
-LSTM using Keras to predict the time series data. There are two running files to predict international airline passengers. We use 65% of data to train the LSTM model and predict the other 35% of data and compare the predicted data with real data.
+LSTM using Keras to predict the time series data. There are two running files to predict international airline passengers and google stock market. We use 65% of data to train the LSTM model and predict the other 35% of data and compare with real data.
 
-International airline passengers: Number of passengers for each month in thousands.
+- International airline passengers: Number of passengers for each month in thousands.
+- google-stock.csv: Google stock market data from 2012 to 2017
 
 ## Requirements
 Please check the version of libraries I used for this LSTM.
